@@ -1,6 +1,17 @@
 
 
 
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@400;700&display=swap');
+
+* {
+    font-family: 'Grenze Gotisch', cursive;
+    color: #FFF;
+}
+
+h1 {
+    padding: 1rem !important;
+}
+
 
 .custom-color-yellow {
     color: #FFB737;
