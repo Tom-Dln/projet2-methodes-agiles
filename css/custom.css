@@ -1,0 +1,22 @@
+
+
+
+
+.custom-color-yellow {
+    color: #FFB737;
+}
+
+.custom-color-violet {
+    color: #A12CB9;
+}
+
+.custom-border-violet {
+    border-bottom: 3px solid #A12CB9 !important;
+}
+
+
+
+
+.custom-bg-queen {
+    background: linear-gradient(162deg, rgba(255,183,55,1) 0%, rgba(161,44,185,1) 100%);
+}
