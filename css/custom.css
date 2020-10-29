@@ -9,21 +9,20 @@
     font-size: 1.1rem;
 }
 
-/*
-h1 {
-    padding: 1rem !important;
-    margin-top: 4rem !important;
-}
-*/
-
 hr {
     background: #FFF;
+    margin-top: 2rem;
+}
+
+h1 {
+    padding: 2rem 0;
+}
+
+h3 {
+    padding-top: 1rem;
 }
 
 
-.custom-color-yellow {
-    color: #FFB737;
-}
 
 .custom-color-violet {
     color: #A12CB9;
@@ -54,7 +53,4 @@ hr {
     background: linear-gradient(126deg, rgba(52,58,64,1) 0%, rgba(25,21,13,1) 100%);
 }
 
-.custom-font-size {
-    font-size: 0.5rem;
-}
 
