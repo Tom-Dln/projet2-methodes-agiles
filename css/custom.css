@@ -8,8 +8,15 @@
     color: #FFF;
 }
 
+/*
 h1 {
     padding: 1rem !important;
+    margin-top: 4rem !important;
+}
+*/
+
+hr {
+    background: #FFF;
 }
 
 
@@ -25,9 +32,13 @@ h1 {
     border-bottom: 3px solid #A12CB9 !important;
 }
 
+.custom-border-yellow {
+    border: 3px solid #FFB737 !important;
+}
+
 
 
 
 .custom-bg-queen {
-    background: linear-gradient(162deg, rgba(255,183,55,1) 0%, rgba(161,44,185,1) 100%);
+    background: linear-gradient(160deg, rgba(255,183,55,1) 0%, rgba(161,44,185,1) 100%);
 }
