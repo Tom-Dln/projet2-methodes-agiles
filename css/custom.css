@@ -1,5 +1,18 @@
+/* --------------------------------------------------------------
 
+    La Manu Le Havre - Formation Bachelor - 2020/2021
 
+    Projet 2 - Méthodes Agiles
+
+    Willem PRETERRE
+    Mathis Saulnier
+    Tom DELAUNAY
+
+-------------------------------------------------------------- */
+
+/* -------------------------------
+    @@@Global
+------------------------------- */
 
 @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@400;700&display=swap');
 
@@ -22,26 +35,34 @@ h3 {
     padding-top: 1rem;
 }
 
+/* -------------------------------
+    @@@BackToTop
+------------------------------- */
 
-
-.custom-color-violet {
-    color: #A12CB9;
+#back-to-top {
+    text-align: center;
+    height: 40px;
+    width: 40px;
+    color: #FFF;
+    position: fixed;
+    padding: 5px;
+    bottom: 10px;
+    right: 10px;
+    background: #1F1D18;
+    border-radius: 50%;
 }
 
-.custom-border-violet {
-    border-bottom: 3px solid #A12CB9 !important;
-}
+/* -------------------------------
+    @@@Classes
+------------------------------- */
 
 .custom-border-yellow {
     border: 2px solid #FFB737 !important;
 }
 
-
-
 .custom-bg-yellow {
     background: #FFB737;
 }
-
 
 .custom-bg-queen {
     background: rgba(255,183,55,1);
@@ -52,5 +73,3 @@ h3 {
     background: rgb(52,58,64);
     background: linear-gradient(126deg, rgba(52,58,64,1) 0%, rgba(25,21,13,1) 100%);
 }
-
-
