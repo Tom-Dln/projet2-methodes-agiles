@@ -6,6 +6,7 @@
 * {
     font-family: 'Grenze Gotisch', cursive;
     color: #FFF;
+    font-size: 1.1rem;
 }
 
 /*
@@ -33,12 +34,27 @@ hr {
 }
 
 .custom-border-yellow {
-    border: 3px solid #FFB737 !important;
+    border: 2px solid #FFB737 !important;
 }
 
 
+
+.custom-bg-yellow {
+    background: #FFB737;
+}
 
 
 .custom-bg-queen {
+    background: rgba(255,183,55,1);
     background: linear-gradient(160deg, rgba(255,183,55,1) 0%, rgba(161,44,185,1) 100%);
 }
+
+.custom-bg-dark {
+    background: rgb(52,58,64);
+    background: linear-gradient(126deg, rgba(52,58,64,1) 0%, rgba(25,21,13,1) 100%);
+}
+
+.custom-font-size {
+    font-size: 0.5rem;
+}
+
