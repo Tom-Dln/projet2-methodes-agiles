@@ -31,8 +31,21 @@ h2 {
     padding: 2rem 0;
 }
 
+h3 {
+    padding-bottom: 1rem;
+}
+
 h4 {
     padding-top: 1rem;
+}
+
+input:hover {
+    background: rgb(255,183,55);
+    background: linear-gradient(50deg, rgba(255,183,55,1) 9%, rgba(161,44,185,1) 89%);
+}
+textarea:hover {
+    background: rgb(255,183,55);
+    background: linear-gradient(50deg, rgba(255,183,55,1) 9%, rgba(161,44,185,1) 89%);
 }
 
 /* -------------------------------
